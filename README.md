@@ -1,6 +1,6 @@
 # iPhone Calculator
 
-![](https://raw.githubusercontent.com/atabegruslan/iCalc/master/Illustrations/icalc.png)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/iCalc/master/Illustrations/icalc.png)
 
 Project settings: Uncheck size classes to make your app fit properly on the screen. Adjust project's settings under the 'info' tab and disable the default launch view.
 			
